@@ -1,5 +1,10 @@
+//var searchBtn = $('search');
 
 
+
+//function getWeather() {
+
+//}
 
 
 
@@ -9,3 +14,5 @@
 
 //var geoLocation = http://api.openweathermap.org/geo/1.0/zip?zip=E14,GB&appid={API key}
 
+
+//searchBtn.addEventListener('click', getWeather)
